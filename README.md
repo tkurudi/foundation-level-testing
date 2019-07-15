@@ -76,3 +76,14 @@ technologies used
 In addition to failures caused due to defects in the code, failures can also be caused by environmental
 conditions. For example, radiation, electromagnetic fields, and pollution can cause defects in firmware or
 influence the execution of software by changing hardware conditions.
+
+
+
+A test process consists of the following main groups of activities:
+ Test planning
+ Test monitoring and control
+ Test analysis
+ Test design
+ Test implementation
+ Test execution
+ Test completion
