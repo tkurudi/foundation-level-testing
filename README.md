@@ -87,3 +87,26 @@ A test process consists of the following main groups of activities:
  Test implementation
  Test execution
  Test completion
+
+
+Test implementation
+During test implementation, the testware necessary for test execution is created and/or completed,
+including sequencing the test cases into test procedures. So, test design answers the question “how to
+test?” while test implementation answers the question “do we now have everything in place to run the
+tests?”
+Test implementation includes the following major activities:
+ Developing and prioritizing test procedures, and, potentially, creating automated test scripts
+ Creating test suites from the test procedures and (if any) automated test scripts
+ Arranging the test suites within a test execution schedule in a way that results in efficient test
+execution (see section 5.2.4)
+ Building the test environment (including, potentially, test harnesses, service virtualization,
+simulators, and other infrastructure items) and verifying that everything needed has been set up
+correctly
+ Preparing test data and ensuring it is properly loaded in the test environment
+ Verifying and updating bi-directional traceability between the test basis, test conditions, test
+cases, test procedures, and test suites (see section 1.4.4)
+Test design and test implementation tasks are often combined.
+In exploratory testing and other types of experience-based testing, test design and implementation may
+occur, and may be documented, as part of test execution. Exploratory testing may be based on test
+charters (produced as part of test analysis), and exploratory tests are executed immediately as they are
+designed and implemented
