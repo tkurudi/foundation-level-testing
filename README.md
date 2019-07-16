@@ -130,3 +130,12 @@ stakeholders who could benefit from its use
  Analyzing lessons learned from the completed test activities to determine changes needed for
 future iterations, releases, and projects
  Using the information gathered to improve test process maturity 
+
+
+Test execution work products
+Test execution work products include:
+ Documentation of the status of individual test cases or test procedures (e.g., ready to run, pass,
+fail, blocked, deliberately skipped, etc.)
+ Defect reports (see section 5.6)
+ Documentation about which test item(s), test object(s), test tools, and testware were involved in
+the testing 
