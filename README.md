@@ -110,3 +110,23 @@ In exploratory testing and other types of experience-based testing, test design 
 occur, and may be documented, as part of test execution. Exploratory testing may be based on test
 charters (produced as part of test analysis), and exploratory tests are executed immediately as they are
 designed and implemented
+
+
+
+Test completion
+Test completion activities collect data from completed test activities to consolidate experience, testware,
+and any other relevant information. Test completion activities occur at project milestones such as when a
+software system is released, a test project is completed (or cancelled), an Agile project iteration is
+finished (e.g., as part of a retrospective meeting), a test level is completed, or a maintenance release has
+been completed.
+Test completion includes the following major activities:
+ Checking whether all defect reports are closed, entering change requests or product backlog
+items for any defects that remain unresolved at the end of test execution
+ Creating a test summary report to be communicated to stakeholders
+ Finalizing and archiving the test environment, the test data, the test infrastructure, and other
+testware for later reuse
+ Handing over the testware to the maintenance teams, other project teams, and/or other
+stakeholders who could benefit from its use
+ Analyzing lessons learned from the completed test activities to determine changes needed for
+future iterations, releases, and projects
+ Using the information gathered to improve test process maturity 
