@@ -1,4 +1,5 @@
 # foundation-level-testing
+https://www.youtube.com/watch?v=goaZTAzsLMk
 
 1 Fundamentals of Testing 175 minutes
 Keywords
