@@ -140,3 +140,13 @@ fail, blocked, deliberately skipped, etc.)
  Defect reports (see section 5.6)
  Documentation about which test item(s), test object(s), test tools, and testware were involved in
 the testing 
+
+Functional testing types include:
+Unit testing.
+Integration testing.
+System testing.
+Sanity testing.
+Smoke testing.
+Interface testing.
+Regression testing.
+Beta/Acceptance testing.
