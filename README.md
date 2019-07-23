@@ -148,8 +148,13 @@ Integration testing. INTEGRATION TESTING is a level of software testing where in
 
 System testing.System testing is testing conducted on a complete integrated system to evaluate the system's compliance with its specified requirements. System testing takes, as its input, all of the integrated components that have passed integration testing.
 
-Sanity testing.
-Smoke testing.
-Interface testing.
+Sanity testing.Sanity testing is the subset of regression testing and it is performed when we do not have enough time for doing testing. Sanity testing is the surface level testing where QA engineer verifies that all the menus, functions, commands available in the product and project are working fine.
+
+Smoke testing. SMOKE TESTING, also known as “Build Verification Testing”, is a type of software testing that comprises of a non-exhaustive set of tests that aim at ensuring that the most important functions work. The result of this testing is used to decide if a build is stable enough to proceed with further testing.
+
+Interface testing.Interface Testing is defined as a software testing type which verifies whether the communication between two different software systems is done correctly. A connection that integrates two components is called interface.
 Regression testing.
-Beta/Acceptance testing.
+
+Beta/Acceptance testing.In engineering and its various subdisciplines, acceptance testing is a test conducted to determine if the requirements of a specification or contract are met. It may involve chemical tests, physical tests, or performance tests.
+
+In systems engineering it may involve black-box testing performed on a system (for example: a piece of software, lots of manufactured mechanical parts, or batches of chemical products) prior to its delivery.[1]
