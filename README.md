@@ -142,9 +142,12 @@ fail, blocked, deliberately skipped, etc.)
 the testing 
 
 Functional testing types include:
-Unit testing.
-Integration testing.
-System testing.
+Unit testing.  -UNIT TESTING is a level of software testing where individual units/ components of a software are tested. The purpose is to validate that each unit of the software performs as designed. A unit is the smallest testable part of any software. It usually has one or a few inputs and usually a single output.
+
+Integration testing. INTEGRATION TESTING is a level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units. Test drivers and test stubs are used to assist in Integration Testing.
+
+System testing.System testing is testing conducted on a complete integrated system to evaluate the system's compliance with its specified requirements. System testing takes, as its input, all of the integrated components that have passed integration testing.
+
 Sanity testing.
 Smoke testing.
 Interface testing.
